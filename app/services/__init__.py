@@ -1,0 +1,1 @@
+from .gen_service import generate_cover_image

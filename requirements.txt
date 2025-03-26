@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+pydantic
+openai
+httpx
+distro
+jiter
+httpcore
